@@ -73,10 +73,10 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-<a href="[https://github.com/constance210/SWP391_GROUP_07](https://github.com/quanlta/WanderShareBackEnd)">
+<a href="https://github.com/quanlta/WanderShareBackEnd">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quanlta-github-readme-stats.vercel.app/api/pin/?username=quanlta&repo=WanderShareBackEnd&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
-  <img width="272" height="135" alt="SWP391_GROUP_07" src="https://quanlta-github-readme-stats.vercel.app/api/pin/?username=quanlta&repo=WanderShareBackEnd&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=quanlta&repo=WanderShareBackEnd&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="WanderShareBackEnd" src="https://github-readme-stats.vercel.app/api/pin/?username=quanlta&repo=WanderShareBackEnd&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
 </picture>
 </a>
 
