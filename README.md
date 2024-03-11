@@ -68,8 +68,8 @@
   <a href="https://github.com/danielcshn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p> -->
 
-## 📕 Top projects I've contributed to
-
+<!--## 📕 Top projects I've contributed to -->
+## 📘 My top open source projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
