@@ -208,8 +208,7 @@
   <img alt="quanlta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=quanlta&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true">
 </picture>
 </a>
-
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- Specify theme context for images in Markdown (Beta): https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/ -->
 <!-- <p align="center">
