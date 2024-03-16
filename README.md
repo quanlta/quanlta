@@ -192,7 +192,7 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quanlta&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
