@@ -46,7 +46,7 @@
 <div align="center">
 
 <!-- https://github.com/kittinan/spotify-github-profile -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kowfrz2zyqarfjv63t4fl26o6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kowfrz2zyqarfjv63t4fl26o6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kowfrz2zyqarfjv63t4fl26o6y&redirect=true)
 <details>
     <summary>Recently played</summary>
     <a href="https://open.spotify.com/user/31kowfrz2zyqarfjv63t4fl26o6y"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31kowfrz2zyqarfjv63t4fl26o6y&unique=true&count=10" alt="Spotify recently played"></a>
