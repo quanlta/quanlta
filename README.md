@@ -1,5 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <div id="top"></div>
 <h2 align="center">
   Welcome to quanlta's profile!
@@ -8,9 +6,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=Software+Engineer;Developer+Internship;SAP+ERP)](https://git.io/typing-svg)
-  
-![](https://komarev.com/ghpvc/?username=quanlta&color=007bff&label=Profile+Views&style=for-the-badge)
- 
+
 </div>
 
 <!-- ## 📘 My top open source projects -->
