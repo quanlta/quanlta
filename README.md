@@ -1,6 +1,6 @@
 <div id="top"></div>
 <h2 align="center">
-  Welcome to quanlta's profile!
+  Welcome to my profile!
   <img src="https://raw.githubusercontent.com/quanlta/quanlta/master/icons/wave.gif" width="30" height="30">
 </h2>
 <div align="center">
