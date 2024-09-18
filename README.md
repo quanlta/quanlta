@@ -2,7 +2,6 @@
 <h2 align="center">
   Welcome to my profile!
   <img src="https://raw.githubusercontent.com/quanlta/quanlta/master/icons/wave.gif" width="30" height="30">
-  <img src="https://komarev.com/ghpvc/?username=quanlta&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 </h2>
 <div align="center">
 
