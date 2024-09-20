@@ -11,7 +11,6 @@
 
 ## 👨‍💻 Technology Stack
 
-<!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,docker,vscode,postman,react,spring,angular,azure,figma,idea,react,vercel,maven,photoshop&theme=light&perline=10)](https://skillicons.dev)
@@ -22,7 +21,6 @@
 
 <div align="center">
 
-<!-- https://github.com/kittinan/spotify-github-profile -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kowfrz2zyqarfjv63t4fl26o6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kowfrz2zyqarfjv63t4fl26o6y&redirect=true)
 <details>
     <summary>Recently played</summary>
