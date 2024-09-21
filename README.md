@@ -12,7 +12,8 @@
 </div>
 
 <div>
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>  
+<!--<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>-->
+    <img align="right" width="400" alt="Shimarin" src="https://th.bing.com/th/id/R.c7682ec82cff77a56664589b72552062?rik=jLx36jyzRxrPkA&pid=ImgRaw&r=0"/>  
 <h2> / about me /
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
@@ -247,7 +248,7 @@
   </tr>
   <tr>
     <td><p align="center"><a href="https://github.com/quanlta?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/quanlta/quanlta/edit/master/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/quanlta/quanlta/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr>
  </table>
  
@@ -291,3 +292,8 @@
 Credit: [quanlta](https://github.com/quanlta)
 </p>
 </div>
+
+<br><p align="center">
+<a href="https://github.com/quanlta/quanlta/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=quanlta/quanlta&max=10&anon=true" />
+</a>
