@@ -21,7 +21,9 @@
 
 <div>
 <!--<img align="right" width="400" alt="Shimarin" src="https://th.bing.com/th/id/R.c7682ec82cff77a56664589b72552062?rik=jLx36jyzRxrPkA&pid=ImgRaw&r=0"/>-->
-    <img align="right" width="400" alt="Shimarin" src="https://podimage.blob.core.windows.net/imagepod/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png"/>  
+<!--<img align="right" width="400" alt="Shimarin" src="https://podimage.blob.core.windows.net/imagepod/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png"/>  -->
+    <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/originals/cd/b0/b2/cdb0b22600f4f9e69923451b3027f83d.gif"/>
+    
 <h2> / about me /
 </h2>
   
