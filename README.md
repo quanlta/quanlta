@@ -247,7 +247,7 @@
   </tr>
   <tr>
     <td><p align="center"><a href="https://github.com/quanlta?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/quanlta/quanlta/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/quanlta/quanlta/edit/master/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr>
  </table>
  
