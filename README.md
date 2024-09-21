@@ -10,16 +10,19 @@
   ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
   ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 </div>
-
-<div>
-<!--<img align="right" width="400" alt="Shimarin" src="https://th.bing.com/th/id/R.c7682ec82cff77a56664589b72552062?rik=jLx36jyzRxrPkA&pid=ImgRaw&r=0"/>-->
-    <img align="right" width="400" alt="Shimarin" src="https://podimage.blob.core.windows.net/imagepod/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png"/>  
-<h2> / about me /
+<div align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<div>
+<!--<img align="right" width="400" alt="Shimarin" src="https://th.bing.com/th/id/R.c7682ec82cff77a56664589b72552062?rik=jLx36jyzRxrPkA&pid=ImgRaw&r=0"/>-->
+    <img align="right" width="400" alt="Shimarin" src="https://podimage.blob.core.windows.net/imagepod/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png"/>  
+<h2> / about me /
 </h2>
   
 - :credit_card: My full name is **Lâm Thanh Anh Quân** 
