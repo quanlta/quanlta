@@ -62,16 +62,19 @@
   <img src = "https://img.shields.io/badge/Microsoft%20Azure-222222?style=for-the-badge&logo=microsoft-azure" alt = "azure" />
   
   </br></br>
+  
   <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
     
   <div align="center">
     
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kowfrz2zyqarfjv63t4fl26o6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kowfrz2zyqarfjv63t4fl26o6y&redirect=true)
+  
     <details>
     <summary>Recently played</summary>
     <a href="https://open.spotify.com/user/31kowfrz2zyqarfjv63t4fl26o6y"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31kowfrz2zyqarfjv63t4fl26o6y&unique=true&count=10" alt="Spotify recently played"></a>
     </details>
+    
   </div>
 
   <p align="center">
@@ -119,20 +122,16 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
 <p align="center">
-
 <b>FUN FACT EVERYDAY🤔 :</b>
 <i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
-
 
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
@@ -156,7 +155,6 @@
 <p align="center">
 <a href="https://stackoverflow.com/users/27397365/l%c3%a2m-thanh-anh-qu%c3%a2n?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=27397365&theme=dark">
   
-
 <p align="center">
   <a href="https://github.com/quanlta?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/quanlta"/></a>
@@ -238,7 +236,6 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </h4>
 
-<!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
 <table>
