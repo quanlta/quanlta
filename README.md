@@ -291,8 +291,3 @@
 Credit: [quanlta](https://github.com/quanlta)
 </p>
 </div>
-
-<br><p align="center">
-<a href="https://github.com/quanlta/quanlta/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=quanlta/quanlta&max=10&anon=true" />
-</a>
