@@ -63,8 +63,8 @@
   <img src = "https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-bage&logo=intellijidea&logoColor=white" alt = "intelliJ" />
   <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
   <img src = "https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt = "vscode" />
-  <img src = "https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=181717" alt = "github" />
-  <img src = "https://img.shields.io/badge/Microsoft%20Azure-222222?style=for-the-badge&logo=microsoft-azure" alt = "azure" />
+  <img src = "https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt = "github" />
+  <img src = "https://img.shields.io/badge/Microsoft%20Azure-222222?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt = "azure" />
   
   </br></br>
   
