@@ -82,6 +82,9 @@
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+      
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/quanlta/quanlta/output/snake.svg">
 
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
