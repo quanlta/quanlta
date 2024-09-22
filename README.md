@@ -150,11 +150,11 @@
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=quanlta&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
 <div align="center">
-<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=quanlta&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=quanlta&theme=matrix&no-bg=true&no-frame=true">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=quanlta&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=quanlta&theme=matrix&no-bg=true&no-frame=true">
  </div>
 
 <p align="center">
