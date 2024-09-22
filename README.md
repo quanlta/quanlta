@@ -1,7 +1,7 @@
 <p align = center > <img src ="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"> </p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Quan+Lam+%3C3;QUANLTA+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+brownQ+%3C3;quanlta+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
   
   ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
   ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
