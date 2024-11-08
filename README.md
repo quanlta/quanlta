@@ -1,4 +1,6 @@
-<p align = center > <img src ="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"> </p>
+<p align = center > 
+
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+brownQ+%3C3;quanlta+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
@@ -168,8 +170,6 @@
   
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=quanlta&color=0E9C47&style=for-the-badge">
-  
-![](./profile-3d-contrib/profile-night-green.svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
