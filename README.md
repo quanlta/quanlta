@@ -24,7 +24,7 @@
 <div>
 <!--<img align="right" width="400" alt="Shimarin" src="https://podimage.blob.core.windows.net/imagepod/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png"/>  
 <img align="right" width="400" alt="Shimarin" src="https://picsum.photos/500/1000"/> -->
-    <img align="right" width="400" alt="Shimarin" src="https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/349332316_1096986671689251_2624093791112354197_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFoJ0GL-TcIjL6wVmI1l7-43yJOawmYOWbfIk5rCZg5ZkFKckI1rj8lba8s8lMJ6qSofaPdGKCvCf8tf7Ty7QMw&_nc_ohc=cElLkVqVpOIQ7kNvgGrBIfT&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=AlfTrSRF_RryM0usV_ipptk&oh=00_AYAmEBpTReJCxVGb2ihEE2oB7fw70rLAhTZw_mSfIEwVuQ&oe=672A904B"/>
+    <img align="right" width="400" alt="brownQ" src="https://avatars.githubusercontent.com/u/89056814?v=4"/>
 <h2> / about me /
 </h2>
   
@@ -32,7 +32,7 @@
 - :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: I’m looking for with Internships, know Java language. Now I'm focus on learning **SAP Fiori** and **Coursera**.
+- :sweat_smile: I’m looking for with Internships, know Java language. Now I'm focus on learning **SAP** and **Coursera**.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
@@ -289,7 +289,7 @@
   <img src="https://contrib.rocks/image?repo=quanlta/quanlta&max=10&anon=true" />
 </a>
 <p>
-<i>Last Edited on:</i> : <b>9/21/2024</b>
+<i>Last Edited on:</i> : <b>01/07/2025</b>
   
 Credit: [quanlta](https://github.com/quanlta)
 </p>
